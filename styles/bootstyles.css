@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(207, 164, 164) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large; color: aliceblue; 
+}
+
+.common {
+    /*background-color: hsl(41, 50%, 94%); 
+    border: solid 2px white;*/
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+    
+    
+}
+
+
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    left: 5px;
+    right: 5px;
+    padding-right: 5px;
+    text-align: center;font-size: medium; color: aliceblue; font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+
+
+
+
+.footer {
+    bottom: 5px;
+    height: 45px;
+    left: 5px;
+    right: 5px;
+    font-size: 14px ;
+    color: aliceblue ;
+    text-align: center;
+    position: relative;
+    
+
+}
+
+

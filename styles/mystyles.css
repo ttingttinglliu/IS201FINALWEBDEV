@@ -1,0 +1,22 @@
+p {
+  background-color: #ffffff;
+  font-family: cursive, Times, serif;
+}
+
+h2 {
+  background-color: #e4dade;
+  text-align: center;
+}
+
+
+h3
+{
+  font-family:fangsong;
+}
+
+
+b,
+strong {
+  font-style: italic;
+  color: #2F4F4F;
+}
